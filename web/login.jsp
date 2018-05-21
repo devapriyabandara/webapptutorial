@@ -15,6 +15,7 @@
 <form action="/login" method="post">
     login-name : <input type="text" name="loginname" width="30"/>
     password : <input type="password" name="password" width="10"/>
+    Press Submit
     <input type="submit" value="login"/>
 </form>
 </body>
